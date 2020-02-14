@@ -1,0 +1,2 @@
+psycopg2-binary==2.8.4
+google-cloud-bigquery==1.23.1
